@@ -2,6 +2,8 @@ package org.example.menu;
 
 public class MenuRequestModel {
 
+    //This is Menu Request Model
+
     String name;
     int price;
     String description;
